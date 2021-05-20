@@ -23,7 +23,7 @@ design:
     gradient_end: "#1ba268"
     text_color_light: true
     image: ""
-hero_media: book.svg
+hero_media: Sup0PfpCity2.gif
 ---
 Welcome to the Supereo website!
 
