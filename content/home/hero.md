@@ -22,7 +22,7 @@ design:
     gradient_start: "#22cbbe"
     gradient_end: "#1ba268"
     text_color_light: true
-    image: book.svg
+    image: ""
 hero_media: book.svg
 ---
 Welcome to the Supereo website!
