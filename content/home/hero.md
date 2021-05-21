@@ -7,7 +7,7 @@ cta_note:
 widget: hero
 cta:
   url: docs/
-  label: Get Started
+  label: Supereo Game Lab
   icon_pack: fas
   icon: download
 widget_id: Supereo
